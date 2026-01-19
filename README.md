@@ -1,4 +1,4 @@
-# ResumãoIA
+# Resumo com IA
 
 Este projeto permite baixar vídeos do YouTube, extrair o áudio, transcrevê-lo, gerar um resumo e salvá-lo em um arquivo .txt.
 
